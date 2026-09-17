@@ -12,7 +12,7 @@
 |-----------|-------------|
 | **Name** | *Fazla Rabbi* |
 | **Role** | Software Developer |
-| **Portfolio / Website** | [https://fazla.pro](https://fazla.pro) |
+| **Portfolio / Website** | [https://devfazla.com](https://devfazla.com) |
 | **Contact** | [frchowdhury480@gmail.com](mailto:frchowdhury480@gmail.com) |
 
 <div align="left">
@@ -20,11 +20,11 @@
 <!-- 🌐 Socials -->
 <b>Socials:</b><br>
 
-<a href="https://fazla.pro" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="20" alt="Website" /></a>&nbsp;&nbsp;
-<a href="https://github.com/fazla-cloud" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fazla1/" title="LinkedIn"><img src="https://cdn.simpleicons.org/logmein/FFFFFF" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/InnocentP480" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/FFFFFF" height="20" alt="Facebook" /></a>&nbsp;&nbsp;
-<a href="https://x.com/fazla_fr" title="X (Twitter)"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="18" alt="X" /></a>&nbsp;&nbsp;
+<a href="https://devfazla.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="20" alt="Website" /></a>&nbsp;&nbsp;
+<a href="https://github.com/devfazla" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="20" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devfazla/" title="LinkedIn"><img src="https://cdn.simpleicons.org/logmein/FFFFFF" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/devfazla" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/FFFFFF" height="20" alt="Facebook" /></a>&nbsp;&nbsp;
+<a href="https://x.com/devfazla" title="X (Twitter)"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="18" alt="X" /></a>&nbsp;&nbsp;
 
 </div>
 
@@ -36,12 +36,12 @@ A simple, **ad-free** online text editor for privacy-focused writing. Write with
 
 ## 🚀 Live Demo
 
-<a href="https://fazla-cloud.github.io/free-writer/" target="_blank">
+<a href="https://devfazla.github.io/free-writer/" target="_blank">
   <img src="https://img.shields.io/badge/Try%20Free%20Writer-Click%20Here-brightgreen?style=for-the-badge" />
 </a>
 </a>
 
-or visit https://fazla-cloud.github.io/free-writer/
+or visit https://devfazla.github.io/free-writer/
 
 ## Features
 
