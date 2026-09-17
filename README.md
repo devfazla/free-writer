@@ -36,12 +36,12 @@ A simple, **ad-free** online text editor for privacy-focused writing. Write with
 
 ## 🚀 Live Demo
 
-<a href="https://devfazla.github.io/free-writer/" target="_blank">
+<a href="https://free-writer.devfazla.com" target="_blank">
   <img src="https://img.shields.io/badge/Try%20Free%20Writer-Click%20Here-brightgreen?style=for-the-badge" />
 </a>
 </a>
 
-or visit https://devfazla.github.io/free-writer/
+or visit https://free-writer.devfazla.com
 
 ## Features
 
